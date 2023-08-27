@@ -1,7 +1,7 @@
 # yamllint disable-line rule:line-length
 ---
 blueprint:
-  name: Inovelli Red Series VZW31-SN Red Series Switch (ZWave-JS)
+  name: Inovelli Red Series VZW31-SN Red Series Switch (ZWave-JS) [Parallel]
   description: Create automations based on scenes for the Inovelli Red Series VZW31-SN Switch.
   domain: automation
   input:
